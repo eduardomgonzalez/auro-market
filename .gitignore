@@ -1,0 +1,58 @@
+# dependencies
+node_modules
+.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files (NUNCA subir credenciales)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# prisma
+/prisma/migrations
+/prisma/*.db
+/prisma/*.db-journal
+
+# uploads (imágenes de productos)
+/public/uploads
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+!.gitkeep
+
+# editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+Thumbs.db

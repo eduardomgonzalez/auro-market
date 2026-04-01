@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Reloj Quantum Nebula",
+      "price": 300,
+      "category": "Accesorios",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "stock": 14,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Auriculares Aether Pro",
+      "price": 450,
+      "category": "Electrónica",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "stock": 8,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Lámpara Inteligente Lumina",
+      "price": 89,
+      "category": "Hogar",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?w=800&q=80",
+      "stock": 25,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Mochila Zenith Tech",
+      "price": 120,
+      "category": "Moda",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80",
+      "stock": 12,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Cámara Spectra 4K",
+      "price": 899,
+      "category": "Electrónica",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=80",
+      "stock": 5,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Drone Phantom Aero",
+      "price": 1200,
+      "category": "Electrónica",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&q=80",
+      "stock": 3,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Campera Hombre Seux",
+      "price": 350,
+      "category": "Hogar",
+      "rating": 4.7,
+      "image": "/uploads/products/1775054415538-2oy6e3.jpg",
+      "stock": 18,
+      "featured": true
+    },
+    {
+      "id": 9,
+      "name": "Teclado Mecánico Apex",
+      "price": 150,
+      "category": "Electrónica",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800&q=80",
+      "stock": 30,
+      "featured": true
+    },
+    {
+      "id": 10,
+      "name": "Monitor UltraWide 34\"",
+      "price": 650,
+      "category": "Electrónica",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "stock": 7,
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Cafetera Smart Bloom",
+      "price": 220,
+      "category": "Hogar",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800&q=80",
+      "stock": 14,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Gafas de Sol Horizon",
+      "price": 96,
+      "category": "Moda",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800&q=80",
+      "stock": 40,
+      "featured": true
+    }
+  ]
+}
